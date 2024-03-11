@@ -1,0 +1,1 @@
+This HTML/CSS/JavaScript hotel admin dashboard enables seamless room management. It allows admins to book rooms, view bookings, and delete reservations, offering a user-friendly interface for efficient hotel management.
